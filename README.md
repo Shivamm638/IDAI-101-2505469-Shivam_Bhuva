@@ -153,4 +153,4 @@ Planned enhancements for NutriWell:
 
 ## Chatbot Link
 
-https://bot.dialogflow.com/64abfa3c-15a1-41f2-8552-100203133cb1
+[https://bot.dialogflow.com/64abfa3c-15a1-41f2-8552-100203133cb1](https://shivammbhuva.wixsite.com/nutriwell)
